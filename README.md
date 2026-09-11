@@ -25,6 +25,12 @@ Creative Director at [CG Experts](https://cg-experts.com) · building [damian-ma
 
 Most of the day-to-day work lives in private client repos — the contribution graph is the honest picture.
 
+### Now
+
+- Directing a 103-second 3D film for a trade-show launch (October 2026)
+- Taking 8DRIFT through Full Launch on CrazyGames
+- Shipping OIO features between client work
+
 ### Stack
 
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
