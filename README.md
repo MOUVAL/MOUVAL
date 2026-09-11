@@ -39,12 +39,15 @@ Most of the day-to-day work lives in private client repos — the contribution g
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MOUVAL&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/MOUVAL)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MOUVAL&theme=github_dark" alt="Profile details" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=MOUVAL&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MOUVAL&theme=github-dark-blue&hide_border=true" height="165" alt="Streak" />
+<img src="https://streak-stats.demolab.com/?user=MOUVAL&theme=github-dark-blue&hide_border=true" height="170" alt="Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MOUVAL&theme=github_dark&utcOffset=2" height="170" alt="Commits by hour" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOUVAL&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="150" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MOUVAL&theme=github_dark" height="170" alt="Most commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MOUVAL&theme=github_dark" height="170" alt="Repos per language" />
+
+<img src="https://ghchart.rshah.org/2ea44f/MOUVAL" alt="Contribution graph" width="100%" />
 
 </div>
 
