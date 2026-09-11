@@ -4,10 +4,9 @@
 
 **3D · CGI · tools · games**
 
-Creative Director at [CG Experts](https://cg-experts.com) · building [damian-mathew.com](https://damian-mathew.com)
+[damian-mathew.com](https://damian-mathew.com)
 
 [![Website](https://img.shields.io/badge/damian--mathew.com-0b0b0b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://damian-mathew.com)
-[![CG Experts](https://img.shields.io/badge/CG_Experts-0b0b0b?style=for-the-badge&logo=blender&logoColor=white)](https://cg-experts.com)
 [![OIO](https://img.shields.io/badge/OIO-0b0b0b?style=for-the-badge&logo=rocket&logoColor=white)](https://oio.app)
 [![8DRIFT](https://img.shields.io/badge/8DRIFT-0b0b0b?style=for-the-badge&logo=steam&logoColor=white)](https://8drift.com)
 
